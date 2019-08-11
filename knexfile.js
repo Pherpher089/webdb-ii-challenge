@@ -12,5 +12,9 @@ module.exports = {
 
   mirations: {
     directory: './data/migrations',
+  },
+
+  seeds: {
+    directory: './data/seeds'
   }
 };
